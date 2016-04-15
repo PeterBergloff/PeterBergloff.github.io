@@ -1,8 +1,8 @@
 # PeterBergloff.github.io
 **Welcome to Spacetime**
 
-:milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way:
-[Black Hole Illustration]<img src="https://github.com/PeterBergloff/PeterBergloff.github.io/blob/master/black-hole-jets.jpg">
+:milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way:
+<img src="https://github.com/PeterBergloff/PeterBergloff.github.io/blob/master/black-hole-jets.jpg">
 
 [click here] (http://PeterBergloff.github.io) to see my root github page.
 
