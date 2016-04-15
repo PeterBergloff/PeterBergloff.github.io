@@ -6,6 +6,6 @@
 
 :milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way::milky_way:
 
-[click here] (http://PeterBergloff.github.io) to see my root github page.
+[Click here] (http://PeterBergloff.github.io) to see my root github page.
 
-[click here] (http://PeterBergloff.github.io/WPD) to see my webpage.
+[Click here] (http://PeterBergloff.github.io/WPD) to see my webpage.
